@@ -40,7 +40,7 @@
     "framework-arduinosam": {
       "type": "framework",
       "optional": true,
-      "version": "~3.10618.0"
+      "version": "https://github.com/stanford-ssi/platformio-pkg-framework-arduinosam.git"
     },
     "framework-mbed": {
       "type": "framework",
